@@ -1,26 +1,7 @@
-# Hi, I'm Brian (Hieu) &nbsp;![](https://komarev.com/ghpvc/?username=pt-hieu&style=flat-square&color=555)
+Hieu (Brian) Pham — senior frontend engineer in Ho Chi Minh City.
 
-Frontend Engineer based in Ho Chi Minh City, Vietnam.
+Frontend platform by day: TypeScript, React, Nx monorepos, module federation, and the CI/CD plumbing that keeps multi-app codebases shippable. AI tooling on the side: Claude Code skills, MCP servers, agentic dev workflows.
 
-I build performant, scalable web applications with React, TypeScript, and GraphQL. Passionate about clean architecture, module federation, and developer tooling.
+Public work I'd point at: [skills](https://github.com/pt-hieu/skills) — my Claude Code skills, published as a plugin marketplace. Structured commits, root-cause debugging, plan-challenge, prompting techniques.
 
----
-
-### Tech Stack
-
-`React` `TypeScript` `GraphQL` `Next.js` `Vue` `Node.js` `Module Federation` `Neovim` `Linux`
-
----
-
-### Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pt-hieu&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pt-hieu&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ptrunghieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrunghieu/)
-[![GitHub](https://img.shields.io/badge/GitHub-pt--hieu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pt-hieu)
+Reach me at trunghieu.dev.2711@gmail.com.
